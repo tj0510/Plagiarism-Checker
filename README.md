@@ -42,14 +42,9 @@ This project is a simple Python-based plagiarism checker that compares multiple 
    python plagcheck.py
    ```
 
-   *(Or open and run the notebook file: `Copy_of_plagcheck.ipynb`)*
+   *(Or open and run the notebook file: `Copy_of_Plagiarism-Checkerk.ipynb`)*
 
-## 📄 Example Output
 
-```
-[student1.txt] <--> [student2.txt]: Similarity = 0.87
-[student3.txt] <--> [student5.txt]: Similarity = 0.92
-```
 
 ## 📌 Notes
 
@@ -58,7 +53,7 @@ This project is a simple Python-based plagiarism checker that compares multiple 
 
 ## 🧑‍💻 Author
 
-- **Your Name** ([@yourusername](https://github.com/yourusername))
+[Tushar Julka](https://github.com/tj0510)
 
 ## 📜 License
 
